@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Angelina
-- 👀 I’m interested in a bunch of stuff that includes computer science, arts, music etc.etc.  
-- 🌱 I’m currently learning python, javascript and CS50
+
 
 
 
